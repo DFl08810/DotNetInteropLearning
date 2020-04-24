@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitCheck", "ConsoleApp1\Bit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntryPoints", "EntryPoints\EntryPoints.csproj", "{A022141E-C0F6-471B-99F3-3304C9C059C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingConventions", "CallingConventions\CallingConventions.csproj", "{72D4AFD6-88B4-405C-8DFF-E2C582FAE86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallingConventions", "CallingConventions\CallingConventions.csproj", "{72D4AFD6-88B4-405C-8DFF-E2C582FAE86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32Errors", "Win32Errors\Win32Errors.csproj", "{50F2F48B-9C95-4128-BA61-3534527220FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{72D4AFD6-88B4-405C-8DFF-E2C582FAE86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72D4AFD6-88B4-405C-8DFF-E2C582FAE86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72D4AFD6-88B4-405C-8DFF-E2C582FAE86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F2F48B-9C95-4128-BA61-3534527220FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F2F48B-9C95-4128-BA61-3534527220FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F2F48B-9C95-4128-BA61-3534527220FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F2F48B-9C95-4128-BA61-3534527220FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

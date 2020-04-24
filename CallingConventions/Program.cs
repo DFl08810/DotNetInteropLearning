@@ -37,7 +37,6 @@ namespace CallingConventions
             fclose(fileHandle);
 
             Console.WriteLine("file created successfully");
-
         }
     }
 }
